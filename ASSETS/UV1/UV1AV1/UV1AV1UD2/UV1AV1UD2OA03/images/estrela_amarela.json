@@ -1,0 +1,34 @@
+﻿{"frames": [
+{
+	"filename": "anima_star01 instância 10000",
+	"frame": {"x":0,"y":0,"w":196,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":196,"h":121},
+	"sourceSize": {"w":196,"h":121}
+}
+,{
+	"filename": "anima_star01 instância 10001",
+	"frame": {"x":0,"y":121,"w":196,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":196,"h":121},
+	"sourceSize": {"w":196,"h":121}
+}
+,{
+	"filename": "anima_star01 instância 10002",
+	"frame": {"x":0,"y":242,"w":196,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":196,"h":121},
+	"sourceSize": {"w":196,"h":121}
+}],
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.0.0.759",
+	"image": "estrela_amarela.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1"
+}
+}

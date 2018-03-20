@@ -1,0 +1,95 @@
+{
+  "resources": [
+    "output.ogg",
+    "output.m4a",
+    "output.mp3",
+    "output.ac3"
+  ],
+  "spritemap": {
+    "BONECO": {
+      "start": 0,
+      "end": 3.3436734693877552,
+      "loop": false
+    },
+    "BONECA": {
+      "start": 5,
+      "end": 7.899591836734694,
+      "loop": false
+    },
+    "CAPA": {
+      "start": 9,
+      "end": 11.97795918367347,
+      "loop": false
+    },
+    "GOLA": {
+      "start": 13,
+      "end": 16.030204081632654,
+      "loop": false
+    },
+    "GOTA": {
+      "start": 18,
+      "end": 20.768979591836736,
+      "loop": false
+    },
+    "LAGO": {
+      "start": 22,
+      "end": 25.00408163265306,
+      "loop": false
+    },
+    "LATA": {
+      "start": 27,
+      "end": 29.925714285714285,
+      "loop": false
+    },
+    "MACACA": {
+      "start": 31,
+      "end": 34.056326530612246,
+      "loop": false
+    },
+    "MACACO": {
+      "start": 36,
+      "end": 39.056326530612246,
+      "loop": false
+    },
+    "MALA": {
+      "start": 41,
+      "end": 44.13469387755102,
+      "loop": false
+    },
+    "MATO": {
+      "start": 46,
+      "end": 48.795102040816325,
+      "loop": false
+    },
+    "MENINA": {
+      "start": 50,
+      "end": 53.44816326530612,
+      "loop": false
+    },
+    "MENINO": {
+      "start": 55,
+      "end": 58.056326530612246,
+      "loop": false
+    },
+    "PACA": {
+      "start": 60,
+      "end": 63.056326530612246,
+      "loop": false
+    },
+    "PRATA": {
+      "start": 65,
+      "end": 67.71673469387756,
+      "loop": false
+    },
+    "PRATO": {
+      "start": 69,
+      "end": 71.92571428571429,
+      "loop": false
+    },
+    "RATO": {
+      "start": 73,
+      "end": 75.97795918367348,
+      "loop": false
+    }
+  }
+}

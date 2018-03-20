@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Conecturma</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="chrome=1, IE=9">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="robots" content="noindex,nofollow" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="apple-mobile-web-app-title" content="Conecturma">
+	<meta name="viewport" content="initial-scale=1 maximum-scale=1 user-scalable=0 minimal-ui" />
+	<link rel="stylesheet" href="../../GLOBAL/css/video.css" type="text/css" charset="utf-8" />
+	<script src="../../GLOBAL/js/caminhoDosArquivos.js"></script>
+</head>
+
+<body oncontextmenu="return false;">
+	<div class="content_video">
+		<video class="offline" id="video_off" autoplay poster="">
+		     <source id="img_video_off" src="" type="video/mp4" />
+		</video>
+		<img id="offline_placeholder" src="" oncontextmenu="return false;" />
+		<iframe class="online" id="video_on" src="" frameborder="0"></iframe>
+	
+		<div id="buttonbar" class="offline">
+		    <a id="pause" onclick="vidpause()"><img id="img_pause" class="bt_pequeno" src="" alt="Pausar Vídeo" /></a>
+		    <a id="play" onclick="vidplay()"><img id="img_play" src="" alt="Play" /></a>
+		    <a id="btn_skip" class="skip" onclick="skipButtonHud()" href="#"><img id="img_btn_skip" class="bt_pequeno" src="" alt="Pular" /></a>
+		</div>
+
+		<div id="buttonbar" class="buttons online">
+		    <a class="button" id="pause-button"><img id="img_pause-button" class="bt_pequeno" src="" alt="Pausar Vídeo" /></a>
+		    <a class="button" id="play-button"><img  id="img_play-button" src="" alt="Play" /></a>
+		    <a class="skip" id="skip-button" onclick="skipButtonHud()" href="#"><img id="img_skip-button" class="bt_pequeno" src="" alt="Pular" /></a>
+		</div>
+</body>
+<script> 
+		document.getElementById("video_off").src = PLAYER_IMAGENS+"poster.png";
+		document.getElementById("offline_placeholder").src = PLAYER_IMAGENS+"noclick.png";
+		document.getElementById("img_pause").src = PLAYER_IMAGENS+"bt_pause.png";
+		document.getElementById("img_play").src = PLAYER_IMAGENS+"bt_play.png";
+		document.getElementById("img_btn_skip").src = PLAYER_IMAGENS+"bt_skip.png";
+
+		document.getElementById("img_pause-button").src = PLAYER_IMAGENS+"bt_pause.png";
+		document.getElementById("img_play-button").src = PLAYER_IMAGENS+"bt_play.png";
+		document.getElementById("img_skip-button").src = PLAYER_IMAGENS+"bt_skip.png";
+</script> 
+<script src="../../GLOBAL/js/OfflineAPI.js"></script>
+<script src="js/player.js"></script>
+<script src="../../GLOBAL/js/videoPlayer.js"></script>
+</html>

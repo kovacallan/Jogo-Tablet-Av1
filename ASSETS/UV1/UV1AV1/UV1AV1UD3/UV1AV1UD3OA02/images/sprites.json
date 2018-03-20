@@ -1,0 +1,246 @@
+{"frames": [
+
+{
+	"filename": "avião1",
+	"frame": {"x":1002,"y":239,"w":286,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":286,"h":254},
+	"sourceSize": {"w":286,"h":254},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "avião2",
+	"frame": {"x":714,"y":239,"w":286,"h":254},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":286,"h":254},
+	"sourceSize": {"w":286,"h":254},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bola1",
+	"frame": {"x":1070,"y":2,"w":74,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":86},
+	"sourceSize": {"w":74,"h":86},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bola2",
+	"frame": {"x":1146,"y":2,"w":74,"h":86},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":86},
+	"sourceSize": {"w":74,"h":86},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "baú1",
+	"frame": {"x":960,"y":2,"w":108,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":69},
+	"sourceSize": {"w":108,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "baú2",
+	"frame": {"x":850,"y":2,"w":108,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":108,"h":69},
+	"sourceSize": {"w":108,"h":69},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "caneta1",
+	"frame": {"x":244,"y":2,"w":155,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":35},
+	"sourceSize": {"w":155,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "caneta2",
+	"frame": {"x":401,"y":2,"w":155,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":35},
+	"sourceSize": {"w":155,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "casa1",
+	"frame": {"x":402,"y":97,"w":204,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":127},
+	"sourceSize": {"w":204,"h":127},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "casa2",
+	"frame": {"x":608,"y":97,"w":204,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":127},
+	"sourceSize": {"w":204,"h":127},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "computador1",
+	"frame": {"x":1222,"y":2,"w":124,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":93},
+	"sourceSize": {"w":124,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "computador2",
+	"frame": {"x":2,"y":97,"w":124,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":93},
+	"sourceSize": {"w":124,"h":93},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "copo1",
+	"frame": {"x":900,"y":97,"w":84,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":133},
+	"sourceSize": {"w":84,"h":133},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "copo2",
+	"frame": {"x":814,"y":97,"w":84,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":133},
+	"sourceSize": {"w":84,"h":133},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "flor1",
+	"frame": {"x":128,"y":97,"w":135,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":118},
+	"sourceSize": {"w":135,"h":118},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "flor2",
+	"frame": {"x":265,"y":97,"w":135,"h":118},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":118},
+	"sourceSize": {"w":135,"h":118},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "formiga1",
+	"frame": {"x":558,"y":2,"w":144,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":48},
+	"sourceSize": {"w":144,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "formiga2",
+	"frame": {"x":704,"y":2,"w":144,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":48},
+	"sourceSize": {"w":144,"h":48},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lápis1",
+	"frame": {"x":2,"y":2,"w":119,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":20},
+	"sourceSize": {"w":119,"h":20},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lápis2",
+	"frame": {"x":123,"y":2,"w":119,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":119,"h":20},
+	"sourceSize": {"w":119,"h":20},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mochila1",
+	"frame": {"x":1129,"y":97,"w":141,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":140},
+	"sourceSize": {"w":141,"h":140},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mochila2",
+	"frame": {"x":986,"y":97,"w":141,"h":140},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":140},
+	"sourceSize": {"w":141,"h":140},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mosquito1",
+	"frame": {"x":151,"y":239,"w":147,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":141},
+	"sourceSize": {"w":147,"h":141},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mosquito2",
+	"frame": {"x":2,"y":239,"w":147,"h":141},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":141},
+	"sourceSize": {"w":147,"h":141},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sol1",
+	"frame": {"x":300,"y":239,"w":205,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":205,"h":205},
+	"sourceSize": {"w":205,"h":205},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sol2",
+	"frame": {"x":507,"y":239,"w":205,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":205,"h":205},
+	"sourceSize": {"w":205,"h":205},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprites",
+	"format": "RGBA8888",
+	"size": {"w":1348,"h":495},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8bee7b702dfa904bd8a8da1f44ca98b1:186a12a4a066e632cfda90cecf191d81:1eabdf11f75e3a4fe3147baf7b5be24b$"
+}
+}

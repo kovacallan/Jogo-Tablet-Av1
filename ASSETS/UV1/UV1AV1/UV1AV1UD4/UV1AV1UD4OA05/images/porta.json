@@ -1,0 +1,26 @@
+﻿{"frames": [
+{
+	"filename": "porta instância 10000",
+	"frame": {"x":0,"y":0,"w":442,"h":429},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":442,"h":429},
+	"sourceSize": {"w":442,"h":429}
+}
+,{
+	"filename": "porta instância 10001",
+	"frame": {"x":0,"y":429,"w":442,"h":429},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":442,"h":429},
+	"sourceSize": {"w":442,"h":429}
+}],
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.0.0.759",
+	"image": "porta.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}

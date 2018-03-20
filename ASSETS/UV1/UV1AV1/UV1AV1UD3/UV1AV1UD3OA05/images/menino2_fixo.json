@@ -1,0 +1,570 @@
+﻿{"frames": [
+{
+	"filename": "Fred_sby instance 10000",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10001",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10002",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10003",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10004",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10005",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10006",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10007",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10008",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10009",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10010",
+	"frame": {"x":143,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10011",
+	"frame": {"x":286,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10012",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10013",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10014",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10015",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10016",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10017",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10018",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10019",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10020",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10021",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10022",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10023",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10024",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10025",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10026",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10027",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10028",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10029",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10030",
+	"frame": {"x":429,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10031",
+	"frame": {"x":572,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10032",
+	"frame": {"x":715,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10033",
+	"frame": {"x":858,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10034",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10035",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10036",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10037",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10038",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10039",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10040",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10041",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10042",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10043",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10044",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10045",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10046",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10047",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10048",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10049",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10050",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10051",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10052",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10053",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10054",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10055",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10056",
+	"frame": {"x":0,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10057",
+	"frame": {"x":143,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10058",
+	"frame": {"x":286,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10059",
+	"frame": {"x":429,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10060",
+	"frame": {"x":572,"y":261,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10061",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10062",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10063",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10064",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10065",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10066",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10067",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10068",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}
+,{
+	"filename": "Fred_sby instance 10069",
+	"frame": {"x":0,"y":0,"w":143,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":261},
+	"sourceSize": {"w":143,"h":261}
+}],
+"meta": {
+	"app": "Adobe Flash CS6",
+	"version": "12.0.0.481",
+	"image": "menino2_fixo.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

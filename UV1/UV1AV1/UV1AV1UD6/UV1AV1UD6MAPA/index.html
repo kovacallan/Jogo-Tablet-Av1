@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Conecturma</title>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="chrome=1, IE=9">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="format-detection" content="telephone=no">
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="robots" content="noindex,nofollow" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="apple-mobile-web-app-title" content="JC-UN1AV1UN6-AM">
+	<meta name="viewport" content="initial-scale=1 maximum-scale=1 user-scalable=0 minimal-ui" />
+	<link rel="stylesheet" href="../../../../GLOBAL/css/stylesheet.css" type="text/css" charset="utf-8" />
+	<script src="../../../../GLOBAL/js/phaser-arcade-physics-2.3.0.min.js"></script>
+	
+	<script type="text/javascript">
+		BasicGame = {
+		    score: 0,
+		    music: null,
+		    orientated: false,
+		    UV: 1,
+		    AV: 1,
+		    UD: 6,
+		    LEVELS: 6 // numero de niveis existente no mapa
+		};
+
+	</script>
+	<script src="../../../../GLOBAL/js/caminhoDosArquivos.js"></script>
+	<script src="../../../../GLOBAL/js/BootMap.js"></script>
+	<script src="../../../../GLOBAL/js/GameBase.js"></script>
+	<script src="src/Preloader.js"></script>
+	<script src="src/Game.js"></script>
+	<script src="../../../../GLOBAL/js/OnlineAPI.js"></script>
+	<script src="../../../../GLOBAL/js/OfflineAPI.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+
+var game;
+
+(function () {
+
+	game = new Phaser.Game(1000, 600, Phaser.CANVAS, '');
+
+
+	game.state.add('Boot', BasicGame.Boot);
+	game.state.add('Preloader', BasicGame.Preloader);
+	game.state.add('Game', BasicGame.Game);
+
+	game.state.start('Boot');
+
+})();
+</script>
+
+<div id="video">
+	<iframe id="video_box" src=""></iframe>
+</div>
+
+</body>
+</html>

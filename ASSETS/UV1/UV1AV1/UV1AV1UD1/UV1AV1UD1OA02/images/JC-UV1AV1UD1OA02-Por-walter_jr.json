@@ -1,0 +1,931 @@
+{"frames": [
+
+{
+	"filename": "Walter_Junior instance 10000",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10001",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10002",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10003",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10004",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10005",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10006",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10007",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10008",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10009",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10010",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10011",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10012",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10013",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10014",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10015",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10016",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10017",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10018",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10019",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10020",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10021",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10022",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10023",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10024",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10025",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10026",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10027",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10028",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10029",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10030",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10031",
+	"frame": {"x":220,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10032",
+	"frame": {"x":440,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10033",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10034",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10035",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10036",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10037",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10038",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10039",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10040",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10041",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10042",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10043",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10044",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10045",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10046",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10047",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10048",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10049",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10050",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10051",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10052",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10053",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10054",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10055",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10056",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10057",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10058",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10059",
+	"frame": {"x":660,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10060",
+	"frame": {"x":0,"y":456,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10061",
+	"frame": {"x":220,"y":456,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10062",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10063",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10064",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10065",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10066",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10067",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10068",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10069",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10070",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10071",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10072",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10073",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10074",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10075",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10076",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10077",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10078",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10079",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10080",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10081",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10082",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10083",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10084",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10085",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10086",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10087",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10088",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10089",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10090",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10091",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10092",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10093",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10094",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10095",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10096",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10097",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10098",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10099",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10100",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10101",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10102",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10103",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10104",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10105",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10106",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10107",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10108",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10109",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10110",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10111",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10112",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10113",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}
+,{
+	"filename": "Walter_Junior instance 10114",
+	"frame": {"x":0,"y":0,"w":220,"h":456},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":456},
+	"sourceSize": {"w":220,"h":456}
+}],
+"meta": {
+	"app": "Adobe Flash CS6",
+	"version": "12.0.2.529",
+	"image": "walter_jr.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

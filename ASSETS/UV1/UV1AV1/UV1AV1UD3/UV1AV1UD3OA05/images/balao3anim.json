@@ -1,0 +1,170 @@
+﻿{"frames": [
+{
+	"filename": "mc_intro_exemplo_ilha3 instance 10000",
+	"frame": {"x":0,"y":0,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10001",
+	"frame": {"x":153,"y":0,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10002",
+	"frame": {"x":306,"y":0,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10003",
+	"frame": {"x":459,"y":0,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10004",
+	"frame": {"x":612,"y":0,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10005",
+	"frame": {"x":765,"y":0,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10006",
+	"frame": {"x":0,"y":260,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10007",
+	"frame": {"x":153,"y":260,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10008",
+	"frame": {"x":306,"y":260,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10009",
+	"frame": {"x":459,"y":260,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10010",
+	"frame": {"x":612,"y":260,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10011",
+	"frame": {"x":765,"y":0,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10012",
+	"frame": {"x":765,"y":260,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10013",
+	"frame": {"x":0,"y":520,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10014",
+	"frame": {"x":153,"y":520,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10015",
+	"frame": {"x":306,"y":0,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10016",
+	"frame": {"x":306,"y":520,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10017",
+	"frame": {"x":459,"y":520,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10018",
+	"frame": {"x":612,"y":520,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}
+,{
+	"filename": "mc_intro_exemplo_ilha3 instance 10019",
+	"frame": {"x":0,"y":0,"w":153,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":260},
+	"sourceSize": {"w":153,"h":260}
+}],
+"meta": {
+	"app": "Adobe Flash CS6",
+	"version": "12.0.0.481",
+	"image": "balao3anim.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

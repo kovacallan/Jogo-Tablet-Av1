@@ -1,0 +1,174 @@
+{"frames": [
+
+{
+	"filename": "bala",
+	"frame": {"x":2,"y":1248,"w":228,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":228,"h":159},
+	"sourceSize": {"w":228,"h":159},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "beijo",
+	"frame": {"x":2,"y":776,"w":142,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":103},
+	"sourceSize": {"w":142,"h":103},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "boi",
+	"frame": {"x":2,"y":467,"w":131,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":101},
+	"sourceSize": {"w":131,"h":101},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bolo",
+	"frame": {"x":2,"y":278,"w":160,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":87},
+	"sourceSize": {"w":160,"h":87},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bule",
+	"frame": {"x":2,"y":882,"w":201,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":201,"h":109},
+	"sourceSize": {"w":201,"h":109},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cama",
+	"frame": {"x":2,"y":570,"w":163,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":101},
+	"sourceSize": {"w":163,"h":101},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cilios",
+	"frame": {"x":2,"y":673,"w":150,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":101},
+	"sourceSize": {"w":150,"h":101},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "fita",
+	"frame": {"x":2,"y":111,"w":107,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":81},
+	"sourceSize": {"w":107,"h":81},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "heroi",
+	"frame": {"x":2,"y":46,"w":166,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":63},
+	"sourceSize": {"w":166,"h":63},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "isca",
+	"frame": {"x":164,"y":278,"w":31,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":91},
+	"sourceSize": {"w":31,"h":91},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lixo",
+	"frame": {"x":146,"y":776,"w":85,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":104},
+	"sourceSize": {"w":85,"h":104},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lobo",
+	"frame": {"x":2,"y":1111,"w":91,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":124},
+	"sourceSize": {"w":91,"h":124},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "luva",
+	"frame": {"x":2,"y":2,"w":118,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":42},
+	"sourceSize": {"w":118,"h":42},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mala",
+	"frame": {"x":76,"y":993,"w":140,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":116},
+	"sourceSize": {"w":140,"h":116},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ovo",
+	"frame": {"x":2,"y":371,"w":251,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":94},
+	"sourceSize": {"w":251,"h":94},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "pao",
+	"frame": {"x":2,"y":194,"w":155,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":82},
+	"sourceSize": {"w":155,"h":82},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sabao",
+	"frame": {"x":95,"y":1111,"w":143,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":143,"h":135},
+	"sourceSize": {"w":143,"h":135},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "uva",
+	"frame": {"x":2,"y":993,"w":72,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":116},
+	"sourceSize": {"w":72,"h":116},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprites",
+	"format": "RGBA8888",
+	"size": {"w":255,"h":1409},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:78629e1791b2f332f401d4e75ecaaf3c:f03d7bc6093a7f4a30f4947daa036cf5:1eabdf11f75e3a4fe3147baf7b5be24b$"
+}
+}

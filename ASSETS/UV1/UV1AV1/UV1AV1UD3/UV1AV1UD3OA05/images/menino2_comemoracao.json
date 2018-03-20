@@ -1,0 +1,442 @@
+﻿{"frames": [
+{
+	"filename": "Fred_comemora instance 10000",
+	"frame": {"x":0,"y":0,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10001",
+	"frame": {"x":146,"y":0,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10002",
+	"frame": {"x":292,"y":0,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10003",
+	"frame": {"x":438,"y":0,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10004",
+	"frame": {"x":584,"y":0,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10005",
+	"frame": {"x":730,"y":0,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10006",
+	"frame": {"x":876,"y":0,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10007",
+	"frame": {"x":0,"y":261,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10008",
+	"frame": {"x":146,"y":261,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10009",
+	"frame": {"x":292,"y":261,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10010",
+	"frame": {"x":438,"y":261,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10011",
+	"frame": {"x":584,"y":261,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10012",
+	"frame": {"x":730,"y":261,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10013",
+	"frame": {"x":876,"y":261,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10014",
+	"frame": {"x":0,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10015",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10016",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10017",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10018",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10019",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10020",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10021",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10022",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10023",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10024",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10025",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10026",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10027",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10028",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10029",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10030",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10031",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10032",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10033",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10034",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10035",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10036",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10037",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10038",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10039",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10040",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10041",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10042",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10043",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10044",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10045",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10046",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10047",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10048",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10049",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10050",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10051",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10052",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}
+,{
+	"filename": "Fred_comemora instance 10053",
+	"frame": {"x":146,"y":522,"w":146,"h":261},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":261},
+	"sourceSize": {"w":146,"h":261}
+}],
+"meta": {
+	"app": "Adobe Flash CS6",
+	"version": "12.0.0.481",
+	"image": "menino2_comemoracao.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}

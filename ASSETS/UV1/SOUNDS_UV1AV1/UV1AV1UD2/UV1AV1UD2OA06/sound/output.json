@@ -1,0 +1,55 @@
+{
+  "resources": [
+    "output.ogg",
+    "output.m4a",
+    "output.mp3",
+    "output.ac3"
+  ],
+  "spritemap": {
+    "BALA": {
+      "start": 0,
+      "end": 3.866122448979592,
+      "loop": false
+    },
+    "BOLA": {
+      "start": 5,
+      "end": 9.362448979591836,
+      "loop": false
+    },
+    "BOLO": {
+      "start": 11,
+      "end": 15.336326530612244,
+      "loop": false
+    },
+    "CADEIRA": {
+      "start": 17,
+      "end": 20.395918367346937,
+      "loop": false
+    },
+    "CANECA": {
+      "start": 22,
+      "end": 25.317551020408164,
+      "loop": false
+    },
+    "CARACOL": {
+      "start": 27,
+      "end": 30.55265306122449,
+      "loop": false
+    },
+    "DALMATA": {
+      "start": 32,
+      "end": 35.5265306122449,
+      "loop": false
+    },
+    "DAMASCO": {
+      "start": 37,
+      "end": 40.735510204081635,
+      "loop": false
+    },
+    "DEBAIXO": {
+      "start": 42,
+      "end": 46.205714285714286,
+      "loop": false
+    }
+  }
+}
